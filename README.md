@@ -5,7 +5,7 @@ We welcome new ideas for the portal. Although the platform must include the foll
 * A login page for community members, leaders and admins.
 * Dashboard for everyone's profile with their basic info and ratings given by admins.
 * Admins are the core team members of the foundation and will rate the profiles on the basis of contributions.
-* Leaders will automatically be eligible for giving ratings to other members after getting a 3 star profile our of 5.
+* Leaders will automatically be eligible for giving ratings to other members after getting a 3 star profile out of 5.
 * A form for submitting new details of an upcoming event by local chapter, submitting the videos, photos, social media post links, feedback, statistics in the same form upon completion and also for submitting the swag request and proposed statistics before event and uploading contact details csv file.
 * A page for all chapters listing their contribution, photos, leader name and team profiles.
 * A page for branding guidelines and community code of conduct.
