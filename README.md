@@ -1,6 +1,6 @@
 # Community Portal
-### This repository is for creating a community platform for all members of GirlScript Foundation.###</br>
-GirlScript is a section-8 not for profit company registered under Governement of India.</br>
+### This repository is for creating a community platform for all members of GirlScript Foundation.</br>
+#### GirlScript is a section-8 not for profit company registered under Governement of India.</br>
 We welcome new ideas for the portal. Although the platform must include the following-</br>
 * A login page for community members, leaders and admins.
 * Dashboard for everyone's profile with their basic info and ratings given by admins.
