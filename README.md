@@ -12,4 +12,4 @@ in the same form upon completion and also for submitting the swag request and pr
 * A leaderboard to see which leader has made the most contributions and can be promoted to higher role of responsibility.</br></br>
 
 #### All ideas on tech stack are welcome. Also, we are accepting applications for the role of project moderator.</br>
-#### Please share all ideas/feedback/applications on community@girlscript.tech
+#### Please share all ideas/feedback/applications on community@girlscript.tech and join the Slack channel [here](https://join.slack.com/t/girlscript-foundation/shared_invite/enQtODMxMDkxMDE5NTI3LTE4MGNhZGEwODAwNDU3YzU1YmRmYmRmMjUwZTYzMjMyYjBiNjczOGUyOTM2NDI3YmViODI3ZjMyNjZlMzUxMjQ).
